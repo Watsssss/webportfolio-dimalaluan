@@ -1,4 +1,26 @@
+* {
+	font-family: Verdana Pro;
+}
+
+
 .fab {
 	font-size: 2rem;
-	
+
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+#myself {
+	border-radius: 70px;
+	border: 4px solid black;
+}
+
+.card-title2 {
+	font-size: 2rem;
+}
+
+#tools {
+	background-size: 500em;
 }
